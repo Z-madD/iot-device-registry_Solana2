@@ -1,5 +1,5 @@
 [package]
-name = "iot-device-registry_Solana2"
+name = "iot-device-registry"
 version = "0.1.0"
 description = "Solana program for IoT device registry CRUD"
 edition = "2021"
