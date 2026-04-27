@@ -1,7 +1,6 @@
 [workspace]
 members = [
-    "programs/iot-device-registry_Solana2
-"
+    "programs/iot-device-registry"
 ]
 
 [profile.release]
